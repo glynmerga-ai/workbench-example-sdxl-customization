@@ -7,12 +7,16 @@ IMPORTANT: You are using gradio version 3.39.0, however version 4.29.0 is availa
 Running on local URL:  http://0.0.0.0:8080
 
 To create a public link, set `share=True` in `launch()`.
+--- IMAGES: Image is generating... ---
+'AsyncRequest' object has no attribute '_json_response_data'
+--- IMAGES: Created Image 'generated_image-1.png' ---
 --- MODELS: Loading Model: tuned-toy-jensen ---
 --- MODELS: Configuring Pipe ---
 --- MODELS: Loading LoRA Weights for: tuned-toy-jensen ---
---- MODELS: Model is ready for inference ---
 --- IMAGES: Clearing Images... ---
 --- SETTINGS: Deleting 'generated_image-0.png' ---
+--- SETTINGS: Deleting 'generated_image-1.png' ---
+--- MODELS: Model is ready for inference ---
 --- MODELS: Loading Model: tuned-charles-3 ---
 --- MODELS: Configuring Pipe ---
 --- MODELS: Loading LoRA Weights for: tuned-charles-3 ---
@@ -20,5 +24,13 @@ To create a public link, set `share=True` in `launch()`.
 --- IMAGES: Image is generating... ---
 'AsyncRequest' object has no attribute '_json_response_data'
 --- IMAGES: Created Image 'generated_image-0.png' ---
---- SETTINGS: Hiding Settings ---
---- SETTINGS: Expanding Settings ---
+--- MODELS: Loading Model: tuned-toy-jensen ---
+--- MODELS: Configuring Pipe ---
+--- MODELS: Loading LoRA Weights for: tuned-toy-jensen ---
+--- MODELS: Model is ready for inference ---
+--- MODELS: Loading Model: tuned-charles-3 ---
+--- MODELS: Configuring Pipe ---
+--- MODELS: Loading LoRA Weights for: tuned-charles-3 ---
+--- MODELS: Model is ready for inference ---
+--- IMAGES: Image is generating... ---
+'AsyncRequest' object has no attribute '_json_response_data'
